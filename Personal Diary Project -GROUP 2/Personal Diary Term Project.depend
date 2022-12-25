@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1531235123 source:c:\assignments\personal diary term project\imain.cpp
+	"iGraphics.h"
+
+1530384354 c:\assignments\personal diary term project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530384354 c:\assignments\personal diary term project\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 c:\assignments\personal diary term project\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1531229182 c:\assignments\personal diary term project\texturelist.h
+	"texture.h"
+
+1530384362 c:\assignments\personal diary term project\texture.h
+
+1532238675 source:d:\term project\personal diary term project\imain.cpp
+	"iGraphics.h"
+
+1530384354 d:\term project\personal diary term project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530384354 d:\term project\personal diary term project\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 d:\term project\personal diary term project\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532202367 d:\term project\personal diary term project\texturelist.h
+	"texture.h"
+
+1530384362 d:\term project\personal diary term project\texture.h
+
+1599403818 source:e:\previous projects\1-1\personal diary project -group 2\imain.cpp
+	"iGraphics.h"
+
+1599403818 e:\previous projects\1-1\personal diary project -group 2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1599403816 e:\previous projects\1-1\personal diary project -group 2\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1599403816 e:\previous projects\1-1\personal diary project -group 2\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1599403826 e:\previous projects\1-1\personal diary project -group 2\texturelist.h
+	"texture.h"
+
+1599403826 e:\previous projects\1-1\personal diary project -group 2\texture.h
+
